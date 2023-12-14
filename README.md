@@ -1,8 +1,8 @@
-# Project Overview
+# Overview
 
 This analysis was used as part of a Milestone Project for the University of Michigan's Master of Applied Data Science program.
 
-The project involved proprocessing and analysis of the World Bank's World Development Indicators ("WDI") dataset.
+The project involved significant proprocessing and analysis of the World Bank's World Development Indicators ("WDI") dataset.
 
 #  Description of Dataset
 
